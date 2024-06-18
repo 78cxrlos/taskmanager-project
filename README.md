@@ -28,4 +28,11 @@ sqlite3
 ## Support and contact details
 github.com/78cxrlos
 
+### Video
+
+[screen-recorder-tue-jun-18-2024-10-12-27.webm](https://github.com/78cxrlos/taskmanager-project/assets/162049452/a855f15b-a00e-41dc-be70-e00b27d22e48)
+
+
+
+
 
